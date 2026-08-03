@@ -1,6 +1,7 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Theo+Cervera+%F0%9F%91%8B;CS+Student+%40+UNLP;Always+building+something+new" alt="Typing SVG" />
 </h1>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/theo-cervera-lede-a24094251/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -15,20 +16,28 @@
     <img alt="HuggingFace" src="https://img.shields.io/badge/-HuggingFace-3B4252?style=flat&logo=huggingface&logoColor=" />
   </a>
 </p>
+
 <p align="center">
   <img alt="Studies" src="https://img.shields.io/badge/Licenciatura%20en%20Informática-UNLP-blue?style=flat-square" />
   <img alt="Status" src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen?style=flat-square" />
   <img alt="Location" src="https://img.shields.io/badge/Location-La%20Plata%2C%20Argentina-orange?style=flat-square" />
 </p>
+
 ---
+
 ## 👨‍💻 About Me
+
 I'm a **Computer Science student** at the **Universidad Nacional de La Plata (UNLP)**, driven by a deep interest in low-level systems, software architecture, and building practical tools that solve real problems.
+
 - 🔭 Currently studying **Computer Science (Licenciatura en Informática)** at UNLP
 - 🛠 Building projects across low-level systems, tooling, and game dev
 - 📬 Reach me at **theocervera2003@gmail.com**
 - 🌱 Always learning — currently diving deeper into **Go** and **systems programming**
+
 ---
+
 ## 🛠 Tech Stack
+
 <table>
   <tr>
     <td valign="top" width="33%">
@@ -58,8 +67,11 @@ I'm a **Computer Science student** at the **Universidad Nacional de La Plata (UN
     </td>
   </tr>
 </table>
+
 ---
+
 ## 🚀 Featured Projects
+
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -86,23 +98,35 @@ I'm a **Computer Science student** at the **Universidad Nacional de La Plata (UN
     </td>
   </tr>
 </table>
+
 > 📁 More projects are available in my [repositories](https://github.com/TheoCerveraLede?tab=repositories). Each folder is a self-contained project — feel free to explore.
+
 ---
+
 ## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TheoCerveraLede&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheoCerveraLede&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="165"/>
 </p>
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=TheoCerveraLede&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
+
 ---
+
 ## 🗺 What I'm Working On
-- [ ] Building new projects in **Go** to deepen my backend/systems knowledge  
-- [ ] Open to collaborating on open-source tools or university-related projects  
+
+- [ ] Building new projects in **Go** to deepen my backend/systems knowledge
+- [ ] Open to collaborating on open-source tools or university-related projects
+
 ---
+
 ## 📫 Get In Touch
+
 I'm always open to interesting conversations, collaborations, or just connecting with other developers.
+
 | | |
 |---|---|
 | 📧 **Email** | [theocervera2003@gmail.com](mailto:theocervera2003@gmail.com) |
