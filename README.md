@@ -99,7 +99,7 @@ I'm a **Computer Science student** at the **Universidad Nacional de La Plata (UN
   </tr>
 </table>
 
-> 📁 More projects are available in my [repositories](https://github.com/theofalso?tab=repositories). Each folder is a self-contained project — feel free to explore.
+> 📁 More projects are available in my [repositories](https://github.com/TheoCerveraLede?tab=repositories). Each folder is a self-contained project — feel free to explore.
 
 ---
 
