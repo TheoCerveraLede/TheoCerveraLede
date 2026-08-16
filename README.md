@@ -46,19 +46,6 @@ I build backend services, machine learning pipelines, and developer tooling — 
 
 ---
 
-## Selected Projects
-
-| Project | What it is | Stack |
-|---|---|---|
-| **[timetrack](https://github.com/TheoCerveraLede/timetrack)** | Time-tracking CLI with a live status counter driven by goroutines and tickers, JSON persistence, and an embedded HTTP server exposing a JSON API and dashboard. Standard `cmd/` + `internal/` layout with unit tests. | Go, Cobra, `net/http` |
-| **[fer-resnet-project](https://github.com/TheoCerveraLede/fer-resnet-project)** | End-to-end facial expression recognition pipeline — ResNet18 transfer learning on FER-2013 with a custom training loop, data augmentation, and a live demo deployed to Hugging Face Spaces. | PyTorch, torchvision, Gradio |
-| **[Background-Removal-App](https://github.com/TheoCerveraLede/Background-Removal-App)** | Background removal running transformer-based segmentation models locally, packaged with modern Python tooling and a reproducible lockfile. | PyTorch, Transformers, Gradio, uv |
-| **[pytorch-classifier-template](https://github.com/TheoCerveraLede/pytorch-classifier-template)** | Reusable image-classification boilerplate: labels are derived from the dataset layout, ResNet18 transfer learning out of the box, and a Gradio inference UI ready to run. | PyTorch, torchvision, Gradio |
-
-More in my [repositories](https://github.com/TheoCerveraLede?tab=repositories).
-
----
-
 ## Currently
 
 - Deepening backend and systems work in **Go**
