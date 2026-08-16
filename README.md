@@ -38,7 +38,7 @@ I build backend services, machine learning pipelines, and developer tooling — 
 
 | | |
 |---|---|
-| **Languages** | Go · Python · Java · JavaScript · TypeScript · C++17 · x86 Assembly (NASM) · Bash |
+| **Languages** | <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" /> <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img alt="C++17" src="https://img.shields.io/badge/C%2B%2B17-00599C?style=flat-square&logo=cplusplus&logoColor=white" /> <img alt="x86 Assembly (NASM)" src="https://img.shields.io/badge/x86%20Assembly%20%28NASM%29-6E4C13?style=flat-square&logo=assemblyscript&logoColor=white" /> <img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" /> |
 | **Web** | HTML5 · CSS · Nunjucks · Eleventy (11ty) · React · Vite · Canvas API · WebAssembly |
 | **Backend & Cloud** | Go (`net/http`, Cobra) · REST/JSON APIs · Cloudflare Workers · Workers KV · Wrangler · OAuth 2.0 |
 | **ML & Computer Vision** | PyTorch · torchvision · Hugging Face Transformers · timm · Gradio · OpenCV · scikit-image |
