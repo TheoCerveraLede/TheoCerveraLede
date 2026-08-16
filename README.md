@@ -4,7 +4,23 @@ Computer Science student at **Universidad Nacional de La Plata (UNLP)**, based i
 
 I build backend services, machine learning pipelines, and developer tooling — with a bias toward understanding what happens underneath the abstractions.
 
-[LinkedIn](https://www.linkedin.com/in/theo-cervera-lede-a24094251/) · [Email](mailto:theocervera2003@gmail.com) · [Hugging Face](https://huggingface.co/theofalso)
+<p>
+  <a href="https://www.linkedin.com/in/theo-cervera-lede-a24094251/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:theocervera2003@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://huggingface.co/theofalso">
+    <img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  </a>
+</p>
+
+<p>
+  <img alt="Studies" src="https://img.shields.io/badge/Licenciatura%20en%20Inform%C3%A1tica-UNLP-blue?style=flat-square" />
+  <img alt="Status" src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen?style=flat-square" />
+  <img alt="Location" src="https://img.shields.io/badge/Location-La%20Plata%2C%20Argentina-orange?style=flat-square" />
+</p>
 
 ---
 
@@ -21,7 +37,7 @@ I build backend services, machine learning pipelines, and developer tooling — 
 
 | | |
 |---|---|
-| **Languages** | Go · Python · TypeScript · C++17 · x86 Assembly (NASM) · Bash |
+| **Languages** | Go · Python · Java · TypeScript · C++17 · x86 Assembly (NASM) · Bash |
 | **ML & Computer Vision** | PyTorch · torchvision · Hugging Face Transformers · timm · Gradio · OpenCV · scikit-image |
 | **Backend & Cloud** | Go (`net/http`, Cobra) · REST/JSON APIs · Cloudflare Workers |
 | **Frontend** | React · TypeScript · Vite |
@@ -35,10 +51,8 @@ I build backend services, machine learning pipelines, and developer tooling — 
 |---|---|---|
 | **[timetrack](https://github.com/TheoCerveraLede/timetrack)** | Time-tracking CLI with a live status counter driven by goroutines and tickers, JSON persistence, and an embedded HTTP server exposing a JSON API and dashboard. Standard `cmd/` + `internal/` layout with unit tests. | Go, Cobra, `net/http` |
 | **[fer-resnet-project](https://github.com/TheoCerveraLede/fer-resnet-project)** | End-to-end facial expression recognition pipeline — ResNet18 transfer learning on FER-2013 with a custom training loop, data augmentation, and a live demo deployed to Hugging Face Spaces. | PyTorch, torchvision, Gradio |
-| **[studio_multimedia](https://github.com/TheoCerveraLede/studio_multimedia)** | Desktop media toolkit built around a plugin architecture: tools are auto-discovered at startup and run on background workers to keep the UI responsive. Covered by a pytest suite. | Python, PyQt6, moviepy, pytest |
 | **[Background-Removal-App](https://github.com/TheoCerveraLede/Background-Removal-App)** | Background removal running transformer-based segmentation models locally, packaged with modern Python tooling and a reproducible lockfile. | PyTorch, Transformers, Gradio, uv |
-| **[obsidian-gdrive-sync](https://github.com/TheoCerveraLede/obsidian-gdrive-sync)** | Truly bidirectional vault synchronization via `rclone bisync`, automated with a systemd timer and a best-effort shutdown hook. Documents the trade-offs against `rclone sync` and `mount`. | Bash, systemd, rclone |
-| **[assembly-learning](https://github.com/TheoCerveraLede/assembly-learning)** | Progressive x86 exercises going from real-mode I/O up to a custom two-stage bootloader and a small hobby OS with its own shell and drivers, booted under QEMU. | NASM, x86, QEMU, Make |
+| **[pytorch-classifier-template](https://github.com/TheoCerveraLede/pytorch-classifier-template)** | Reusable image-classification boilerplate: labels are derived from the dataset layout, ResNet18 transfer learning out of the box, and a Gradio inference UI ready to run. | PyTorch, torchvision, Gradio |
 
 More in my [repositories](https://github.com/TheoCerveraLede?tab=repositories).
 
