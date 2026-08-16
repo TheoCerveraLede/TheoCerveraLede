@@ -27,6 +27,7 @@ I build backend services, machine learning pipelines, and developer tooling — 
 ## Focus
 
 - **Backend & systems** — Go services, CLI tooling, concurrency, HTTP APIs
+- **Web** — static site generation, serverless APIs at the edge, hand-written HTML/CSS/JS
 - **Machine learning** — PyTorch training pipelines, transfer learning, model deployment
 - **Software architecture** — plugin systems, modular design, automated testing
 - **Low-level** — x86 assembly, bootloaders, OS internals
@@ -37,11 +38,11 @@ I build backend services, machine learning pipelines, and developer tooling — 
 
 | | |
 |---|---|
-| **Languages** | Go · Python · Java · TypeScript · C++17 · x86 Assembly (NASM) · Bash |
+| **Languages** | Go · Python · Java · JavaScript · TypeScript · C++17 · x86 Assembly (NASM) · Bash |
+| **Web** | HTML5 · CSS · Nunjucks · Eleventy (11ty) · React · Vite · Canvas API · WebAssembly |
+| **Backend & Cloud** | Go (`net/http`, Cobra) · REST/JSON APIs · Cloudflare Workers · Workers KV · Wrangler · OAuth 2.0 |
 | **ML & Computer Vision** | PyTorch · torchvision · Hugging Face Transformers · timm · Gradio · OpenCV · scikit-image |
-| **Backend & Cloud** | Go (`net/http`, Cobra) · REST/JSON APIs · Cloudflare Workers |
-| **Frontend** | React · TypeScript · Vite |
-| **Tooling & Infra** | Linux · systemd · Git · pytest · uv · CMake · Make · QEMU |
+| **Tooling & Infra** | Linux · systemd · Git · npm · pytest · uv · CMake · Make · QEMU |
 
 ---
 
