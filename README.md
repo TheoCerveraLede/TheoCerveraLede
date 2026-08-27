@@ -1,6 +1,6 @@
 # Theo Cervera Lede
 
-Computer Science (Licenciatura en informática) student at **Universidad Nacional de La Plata (UNLP)**, Argentina.
+Computer Science (Licenciatura en informática) student at **Universidad Nacional de La Plata (UNLP)**, Argentina
 
 I build backend services, machine learning pipelines, and developer tooling — with a bias toward understanding what happens underneath the abstractions.
 
